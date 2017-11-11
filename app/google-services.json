@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "475596150123",
+    "firebase_url": "https://climasitver.firebaseio.com",
+    "project_id": "climasitver",
+    "storage_bucket": "climasitver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475596150123:android:06f951c73c538bdf",
+        "android_client_info": {
+          "package_name": "com.itver.alayon.automatizationtest11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475596150123-6si2cbhd933m5bqnj5t0nvir9dtv99jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itver.alayon.automatizationtest11",
+            "certificate_hash": "720ccef7728927056c94048f8a0a4cf726561e6c"
+          }
+        },
+        {
+          "client_id": "475596150123-77ltk0mqm2sd877ji6t5msnd20dlnm45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgnnJQtkqq5535oa2SLOEK5oSDXTMtytI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475596150123-77ltk0mqm2sd877ji6t5msnd20dlnm45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
